@@ -1,5 +1,5 @@
 body {
-background: lightblue;
+background: blue;
 color: #fff;
 font-family: 'Open Sans', sans-serif;
 font-size: 15px;
@@ -14,7 +14,7 @@ margin-left: auto;
 margin-right: auto;
 margin-top: 10%;
 height: auto;
-max-width: 100px;
+max-width: auto;
 }
 .profile-name {
 text-align: center;
